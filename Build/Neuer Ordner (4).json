@@ -1,0 +1,16 @@
+{
+"companyName": "MechanicalHearts",
+"productName": "LinguSpeech",
+"productVersion": "0.21",
+"dataUrl": "Neuer Ordner (4).data.unityweb",
+"wasmCodeUrl": "Neuer Ordner (4).wasm.code.unityweb",
+"wasmFrameworkUrl": "Neuer Ordner (4).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
